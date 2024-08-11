@@ -3,7 +3,7 @@
 -reading **Bsc. Information Systems** degree
 -registration number: *2023/IS/113*
 -index number: *23021136*
--my Linkedin: [title] (https://www.linkedin.com/in/s-umaya-walpola)
+-my Linkedin: (https://www.linkedin.com/in/s-umaya-walpola)
 -programming languages i am currently learning: 
                       1. C
                       2. PHP
